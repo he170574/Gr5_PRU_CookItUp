@@ -309,7 +309,7 @@ GameObject:
   - component: {fileID: 23662479}
   - component: {fileID: 23662478}
   m_Layer: 5
-  m_Name: About Us
+  m_Name: AboutUsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -881,6 +881,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playButton: {fileID: 848961648}
   quitButton: {fileID: 383029982}
+  aboutUsButton: {fileID: 23662480}
 --- !u!1 &436238414
 GameObject:
   m_ObjectHideFlags: 0
